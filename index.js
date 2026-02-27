@@ -44,7 +44,7 @@ const SLIDES = [
     name: "Funny",
     color: "#8BA8A8",
     image:
-      "https://i.postimg.cc/brBZdj4h/Anh2.avif"
+      "https://i.postimg.cc/76xhVNzm/IMG-5114.jpg"
   },
   {
     name: "Spring",
