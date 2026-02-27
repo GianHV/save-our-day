@@ -29,13 +29,13 @@ const debounce = (func, wait, immediate) => {
 
 const SLIDES = [
   {
-    name: "Fjord",
+    name: "Nguoi yeu cua anh",
     color: "#6B5B50",
     image:
       "https://i.postimg.cc/157GVkDT/Anh3.jpg"
   },
   {
-    name: "Aether",
+    name: "Em be cua hai dua",
     color: "#B8B5A4",
     image:
       "https://i.postimg.cc/hj0xD6Sj/Anh1.jpg"
@@ -47,7 +47,7 @@ const SLIDES = [
       "https://i.postimg.cc/brBZdj4h/Anh2.avif"
   },
   {
-    name: "Birch",
+    name: "Em be yeu mua xuan",
     color: "#B5A882",
     image:
       "https://i.postimg.cc/7Zyx963c/IMG-6958.jpg"
